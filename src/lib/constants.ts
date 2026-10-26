@@ -1,7 +1,7 @@
 export const TEAM_BRAND_MAP: Record<string, { primary: string; secondary: string; nickname: string }> = {
-  ARS: { primary: '#EF0107', secondary: '#063672', nickname: 'The Gunners' },
+  ARS: { primary: '#EF0107', secondary: '#FFFFFF', nickname: 'The Gunners' },
   AVL: { primary: '#95BFE5', secondary: '#670E36', nickname: 'Villans' },
-  BOU: { primary: '#DA291C', secondary: '#101010', nickname: 'The Cherries' },
+  BOU: { primary: '#DA291C', secondary: '#fffbfb', nickname: 'The Cherries' },
   BRE: { primary: '#E30613', secondary: '#FBB800', nickname: 'The Bees' },
   BHA: { primary: '#0057B8', secondary: '#FFCD00', nickname: 'The Seagulls' },
   CHE: { primary: '#034694', secondary: '#EE242C', nickname: 'The Blues' },
